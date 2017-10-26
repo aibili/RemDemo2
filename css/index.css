@@ -1,0 +1,227 @@
+
+html{
+	font-size: 75px;
+}
+
+body{
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+.banxin{
+	width: 10.0rem;
+	margin: 0 auto;
+}
+
+.toppart-logo{}
+.toppart-logo img{
+	width: 10.0rem;
+	height: 7.52rem;
+}
+
+.part2{
+	background: #FCECD2;
+}
+.part2-top{
+    background: #FCECD2;
+}
+.part2-top-tt{
+    padding-left: 0.346667rem;
+}
+.part2-top-tt h4{
+    float: left;
+    font-size: 0.4rem;
+    color: #fff;
+    background: #62368f;
+    border-radius: 0.4rem;
+    width: 2.72rem;
+    height: 0.653333rem;
+    line-height: 0.653333rem;
+    padding-left: 0.186667rem;
+}
+.part2-top-tt h4 span{
+    margin-right: 0.306667rem;
+}
+.part2-top-tt>span{
+    font-size: 0.346667rem;
+    line-height: 0.653333rem;
+    margin-left: 0.226667rem;
+}
+.part2-top-bd{
+    margin-top: 0.333333rem;
+    padding-left: 0.346667rem;
+}
+.part2-top-bd p{
+    font-size: 0.32rem;
+    line-height: 0.48rem;
+}
+
+.part2-bot{
+    background: #FCECD2;
+    text-align: center;
+    position: relative;
+    padding-top: 0.693333rem;
+}
+.part2-bot img{
+	width: 7.8rem;
+	height: 3.333333rem;
+}
+.img-mess{
+    position: absolute;
+    top: 2.213333rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.img-mess p{
+    font-size: 0.32rem;
+    color: #fff;
+}
+.img-mess a{
+    display: inline-block;
+    width: 2.333333rem;
+    height: 0.733333rem;
+    font-size: 0.36rem;
+    color: #fff;
+    text-decoration: none;
+    background: #62368f;
+    line-height: 0.733333rem;
+    border-radius: 0.4rem;
+    margin-top: 0.213333rem;
+}
+
+
+.part3{
+	padding-top: 1.026667rem;
+}
+
+.part3 .part2-top-tt span{
+	font-size: 0.32rem;
+}
+
+.part3 .part2-top-bd p{
+	text-align: center;
+	color: #f14095;
+}
+
+.public-item2{
+	width: 9.213333rem;
+	height: 3.92rem;
+	background: #62368f;
+	border-radius: 0.2rem;
+	margin: 0 auto;
+	text-align: left;
+	color: #fff;
+}
+
+
+.public-item2-tt{
+	background-image: url(../img/2017-10-25_212945.png);
+	background-size: 17px 4px;
+	background-repeat: no-repeat;
+	background-position: 0px 65px;
+	background-repeat-x: repeat;
+}
+.public-item2-tt p{
+    font-size: 0.346667rem;
+    line-height: 0.4rem;
+    padding-left: 0.213333rem;
+    padding-top: 0.24rem;
+    padding-bottom: 0.266667rem;
+}
+.public-item2-bd{
+    padding-left: 0.213333rem;
+    margin-top: 0.293333rem;
+}
+.public-item2-bd p:nth-child(1){
+    font-size: 0.32rem;
+    line-height: 0.533333rem;
+    padding-right: 0.733333rem;
+}
+.public-item2-bd p:nth-child(2){
+    font-size: 0.32rem;
+    line-height: 0.533333rem;
+    padding-right: 0.733333rem;
+}
+.public-item2-bd p:nth-child(3){
+    font-size: 0.32rem;
+    line-height: 0.533333rem;
+    padding-right: 0.733333rem;
+}
+.public-item2-bd p:nth-child(4){
+    font-size: 0.32rem;
+    line-height: 0.4rem;
+    color: #fad7ad;
+    margin-top: 0.373333rem;
+}
+
+.kaijiang-item{
+    height: 4.666667rem;
+    margin-top: 0.533333rem;
+}
+
+.part4{
+    padding-bottom: 0.533333rem;
+    padding-top: 1.266667rem;
+}
+
+.part4-show{
+	width: 9.16rem;
+	background: #ff83a3;
+	margin: 0 auto;
+	text-align: left;
+	border-radius: 0.24rem;
+	padding-top: 0.266667rem;
+	padding-bottom: 0.266667rem;
+}
+.part4-show-item{
+    font-size: 0.32rem;
+    line-height: 0.533333rem;
+    color: #fff;
+    padding-left: 0.146667rem;
+    padding-right: 0.373333rem;
+}
+.part4-show-item span:first-child{
+    background: #62368f;
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.4rem;
+    text-align: center;
+    line-height: 0.4rem;
+    border-radius: 0.2rem;
+}
+.part4-show-item span:last-child{
+}
+
+.lizi{
+    font-size: 0.32rem;
+    line-height: 0.533333rem;
+    color: #fff;
+    border: 5px solid #62368f;
+    border-radius: 0.173333rem;
+    width: 8.8rem;
+    margin: 0 auto;
+    padding-left: 0.08rem;
+    padding-top: 0.066667rem;
+    padding-bottom: 0.066667rem;
+    margin-top: 0.266667rem;
+    margin-bottom: 0.266667rem;
+}
+.lizi span{}
+.lizi p{}
+
+.footer{
+    text-align: center;
+    margin-top: 0.666667rem;
+}
+.footer-bg{
+	background-image: url(../img/dsds_07.png);
+	background-repeat: no-repeat;
+	background-position: center 0px;
+}
+.footer-bg img{
+    width: 1.773333rem;
+    height: 1.786667rem;
+    /* margin-top: 0px; */
+    position: relative;
+    top: 0.213333rem;
+}
+.footer p{margin-top: 0.24rem;font-size: 14px;line-height: 0.32rem;}
